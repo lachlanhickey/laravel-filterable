@@ -19,10 +19,10 @@
     ],
     "require": {
         "php": ">=7.1",
-        "illuminate/support": "^8.0"
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
     },
     "require-dev": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0|^11.0",
         "orchestra/testbench": "^5.0",
         "phpunit/phpunit": "^9.0"
     },
